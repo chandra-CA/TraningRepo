@@ -1,0 +1,28 @@
+Test1
+Test 2
+Test 3
+:wq
+wq
+		
+:wq
+
+		exit
+		:q!
+		jasjdasjdjas:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			WQ
+
